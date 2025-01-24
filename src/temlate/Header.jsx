@@ -5,7 +5,7 @@ function Header() {
     <div>
 
         <h1>
-            Thsis is Fisrt Project in react 
+            This is 1st Project in react 
         </h1>
 
     </div>
